@@ -1,0 +1,6 @@
+- 👀 I’m interested in coding and programming, particularly in **C++** and **Python**.
+- 🌱 I’m currently learning more about software development and algorithms as a **1st year BCA student** at Amity University.
+- 💞️ I’m looking to collaborate on projects related to software development and open-source contributions.
+- 📫 How to reach me: [afjalali786078@gmail.com).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving puzzles and challenges in my spare time!
